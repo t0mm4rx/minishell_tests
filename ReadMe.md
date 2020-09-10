@@ -3,6 +3,7 @@
 Here are some tests for the minishell project of school 42 cursus. It's not exaustive, so don't limit yourself with this tests.
 These tests are not all mines. Credits to vgoldman, mashar, and jecaudal.
 
+tmarx
 # Tests
 
 - [ ] echo bonjour ; |
